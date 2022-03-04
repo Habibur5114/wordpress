@@ -1,0 +1,26 @@
+.category li a {
+    text-decoration: none;
+}
+
+.category li {
+    list-style-type: none;
+}
+
+.category1 h3 {
+    margin-top: 10px;
+    background-color: red;
+    padding: 5px;
+}
+
+.slider-class li {
+    list-style-type: none;
+}
+
+.sidebar-widget ul {
+    list-style-type: none;
+    box-shadow: 1px solid red;
+}
+
+.sidebar-widget ul li a {
+    text-decoration: none;
+}

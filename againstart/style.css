@@ -1,0 +1,371 @@
+    /*
+Theme Name: tonu
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Author: habib
+Author URI: https://wordpress.org/
+Description: Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+Requires at least: 5.3
+Tested up to: 5.8
+Requires PHP: 5.6
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: habib
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+Twenty Twenty-One WordPress Theme, (C) 2020 WordPress.org
+Twenty Twenty-One is distributed under the terms of the GNU GPL.
+*/
+    
+    .hou li {
+        list-style: none;
+    }
+    
+    .hou ul li a {
+        color: white;
+    }
+    
+    .hou h2 {
+        text-align: center;
+    }
+    
+    .kebol ul li a {
+        color: black;
+        font-weight: 550;
+    }
+    
+    .servise {
+        background-image: url(img/web-design-background-03.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 500px;
+        text-align: center;
+    }
+    
+    .siderbar-widget-title {
+        background-color: red;
+        box-shadow: #3644AF;
+        padding: 5px;
+    }
+    
+    .siderbar-widget ul li {
+        list-style-type: none;
+    }
+    
+    .siderbar-widget ul li a {
+        text-decoration: none;
+    }
+    
+    .box {
+        border: 1px solid;
+    }
+    
+    .page {
+        text-decoration: none;
+    }
+    
+    .box1 {
+        border: 1px solid;
+    }
+    
+    .archi li a {
+        text-decoration: none;
+        list-style-type: none;
+    }
+    
+    .child_sidebar {
+        color: red;
+    }
+    
+    .archi li {
+        list-style-type: none;
+    }
+    
+    .top {
+        padding-top: 60px;
+    }
+    
+    .navbar ul li a {
+        color: black;
+        font-size: 20px;
+        text-decoration: none;
+        padding: 0px 16px;
+    }
+    
+    .menu li {
+        display: inline;
+    }
+    
+    .servise1 {
+        padding-top: 170px;
+    }
+    
+    .weit {
+        font-weight: 500;
+    }
+    
+    .servise2 {
+        background: white;
+        opacity: 0.7;
+        height: 500px;
+    }
+    
+    .wo {
+        text-align: center;
+    }
+    
+    .card1 {
+        background: #2A3443;
+    }
+    
+    .card2 {
+        background: #3644AF;
+    }
+    
+    .card3 {
+        background: #1FB6EA;
+    }
+    
+    .card5 {
+        background: #1FB6EA;
+    }
+    
+    .card6 {
+        background: #3644AF;
+    }
+    
+    .card7 {
+        background: #2A3443;
+    }
+    
+    .card8 {
+        background: #3644AF;
+    }
+    
+    .card9 {
+        background: #2A3443;
+    }
+    
+    .card4 {
+        background: #1FB6EA;
+    }
+    
+    .font p {
+        font-weight: 500;
+    }
+    
+    .bdw {
+        background-image: url(img/one-stop-shop.png);
+        background-repeat: no-repeat;
+    }
+    
+    .far {
+        font-size: 30px
+    }
+    
+    .farr {
+        font-size: 50px;
+        color: aqua
+    }
+    
+    .gf {
+        font-weight: 400;
+    }
+    
+    .wet {
+        font-weight: 600;
+    }
+    
+    .liu img {
+        margin-top: -55px;
+    }
+    
+    .ser {
+        color: white;
+        text-align: center;
+    }
+    
+    .products {
+        background-image: url(img/web-design-background-02.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: ;
+        height: 600px;
+    }
+    
+    .our h1 {
+        padding-top: 150px;
+    }
+    
+    .ky {
+        font-size: 25px;
+        text-align:
+    }
+    
+    .wr {
+        font-weight: 500;
+    }
+    
+    .res {
+        padding-top: 130px;
+    }
+    
+    .hotal {
+        background: #7CDA24;
+    }
+    
+    .porfolio {
+        background-image: url(img/web-design-background-03.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 500px;
+    }
+    
+    .kyy {
+        padding-top: 150px;
+    }
+    
+    .k7 p {
+        font-size: 19px;
+        text-align: center;
+    }
+    
+    .k7 img {
+        margin-top: -90px;
+    }
+    
+    .k7 a {
+        margin-left: 90px;
+    }
+}
+.card60 {
+    color: white;
+}
+.gfd {
+    font-size: 100px;
+}
+.carousel-inner {
+    background-image: url(img/section-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.rtt {
+    font-weight: 800;
+    font-size: 60px;
+    padding-top: 80px;
+}
+.rttt {
+    font-weight: 600;
+}
+.p00 {
+    font-weight: 600
+}
+.about {
+    background-image: url(img/slide_03.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 490px;
+    color: white;
+    text-align: center;
+}
+.ab {
+    padding-top: 170px;
+    font-weight: 900
+}
+.abb {
+    font-weight: 600;
+}
+.our {
+    font-weight: 900;
+    padding-top: 120px;
+}
+.our2 {
+    font-weight: 600
+}
+.our45 {
+    padding-top: 120px;
+}
+.our46 {
+    padding-top: 150px;
+    font-weight: 700
+}
+.our47 {
+    font-weight: 600
+}
+.our49 {
+    font-weight: 600
+}
+.our44 {
+    padding-top: -30px
+}
+.contact {
+    background-image: url(img/header-bg-3-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 190px;
+}
+.our90 {
+    padding-top: 130px;
+    font-weight: 700;
+    padding-left: 20px;
+}
+@media(min-width:700px) {
+    .our51 {
+        padding-bottom: 400px;
+    }
+}
+@media(max-width:400px) {
+    .our50 {
+        height: 800px;
+    }
+}
+@media(max-width:350px) {
+    .p00 {
+        font-size: 5px;
+    }
+}
+@media(max-width:400px) {
+    .jiu {
+        width: 320px;
+    }
+}
+@media(max-width:400px) {
+    .carousel-inner {
+        height: 800px;
+    }
+}
+@media(max-width:550px) {
+    .oiu h1 {
+        text-align: start
+    }
+}
+@media(max-width:400px) {
+    .portf p {
+        font-size: 17px;
+        text-align: justify-all;
+        text-align: justify
+    }
+}
+@media(max-width:400px) {
+    .k7 h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+    
+    @media(max-width:400px) {
+        .uyt p {
+            font-size: 16px;
+            text-align: left;
+        }
+    }
+    
+    @media(max-width:400px) {
+        .rtt {
+            font-size: 40px;
+        }
+    }
